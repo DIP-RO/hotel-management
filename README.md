@@ -7,8 +7,8 @@ Call Radission Blu
 
 
 # Live Web Link
+https://hotel-management-5a95c.web.app/
 
-# Server 
 
 
 I Used In this Project
@@ -23,3 +23,9 @@ I Used In this Project
 * Node JS
 * Mongo DB
 
+Features
+- Fully Responsive for Mobile Devices
+- Secured By JWT
+- Stripe Payment System
+- Modern Design
+- Dedicated Admin Panel
