@@ -9,7 +9,9 @@ Call Radission Blu
 # Live Web Link
 https://hotel-management-5a95c.web.app/
 
-
+admin:
+user - dipro
+pass - #dipro03746#01948803#
 
 I Used In this Project
 * REACT ROUTER
